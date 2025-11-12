@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Divya</h1>
-<h3 align="center">A passionate Data Analyst from India <img src="https://em-content.zobj.net/thumbs/120/apple/354/flag-india_1f1ee-1f1f3.png" width="25"/></h3>
+<h3 align="center">
+  A passionate Data Analyst from India 
+  <img src="https://em-content.zobj.net/thumbs/120/apple/354/flag-india_1f1ee-1f1f3.png" width="23" align="absmiddle"/>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabasantray&label=Profile%20views&color=eb250f&style=flat-square" alt="divyabasantray" /> </p>
 
