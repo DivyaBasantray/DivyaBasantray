@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Data Analytics Projects**
 
-- 🌱 I’m currently learning **Agentic AI, ML, NLP**
+- 🌱 I’m currently learning **Agentic AI, ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivyaBasantray](https://github.com/DivyaBasantray)
 
