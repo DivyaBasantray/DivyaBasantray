@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivyaBasantray](https://github.com/DivyaBasantray)
 
-- 💬 Ask me about **SQL, Python, Power BI** 
+- 💬 Ask me about **SQL, Python, Microsoft Power BI** 
 
 - 📫 How to reach me **divyadebashrita1307@gmail.com**
 
