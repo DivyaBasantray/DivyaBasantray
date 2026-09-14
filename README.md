@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabasantray&label=Profile%20views&color=eb250f&style=flat-square" alt="divyabasantray" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **AI and Machine Learning Projects**
 
 - 🌱 I’m currently learning **Agentic AI, Machine Learning**
 
