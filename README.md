@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabasantray&label=Profile%20views&color=eb250f&style=flat-square" alt="divyabasantray" /> </p>
 
-- 🔭 I’m currently working on **AI, Data Analytics and Machine Learning Projects**
+- 🔭 I’m currently working on **AI and Machine Learning Projects**
 
-- 🌱 I’m currently learning **Generative AI, Agentic AI, AI Automation and Machine Learning**
+- 🌱 I’m currently learning **Agentic AI, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivyaBasantray](https://github.com/DivyaBasantray)
 
-- 💬 Ask me about **Artificial Intelligence, SQL, Python, Microsoft Power BI**
+- 💬 Ask me about **SQL, Python, Microsoft Power BI, AI**
 
 - 📫 How to reach me **ddbasantray@gmail.com**
 
@@ -28,7 +28,6 @@
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/divyabasantray" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/divyabasantray" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/divyadebashrita1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/divyadebashrita1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/divya11k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/divya11k/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/divyadebashrita1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/divyadebashrita1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
