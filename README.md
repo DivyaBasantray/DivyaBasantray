@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Divya</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabasantray&label=Profile%20Views&color=b90404&style=flat-square" alt="divyabasantray" /> </p>
+<h3 align="center">
+  A passionate Data Analyst from India&nbsp;
+  <picture>
+    <source srcset="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f3.svg" type="image/svg+xml">
+    <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f3.svg" width="22" height="18" align="center">
+  </picture>
+</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabasantray&label=Profile%20views&color=eb250f&style=flat-square" alt="divyabasantray" /> </p>
 
 - 🔭 I’m currently working on **AI and Machine Learning Projects**
 
