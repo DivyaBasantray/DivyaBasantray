@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabasantray&label=Profile%20views&color=eb250f&style=flat-square" alt="divyabasantray" /> </p>
 
-- 🔭 I’m currently working on **AI and Machine Learning Projects**
+- 🔭 I’m currently working on **Artificial Intelligence and Machine Learning Projects**
 
-- 🌱 I’m currently learning **Agentic AI, Machine Learning**
+- 🌱 I’m currently learning **Generative AI, Agentic AI, AI Automation and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivyaBasantray](https://github.com/DivyaBasantray)
 
-- 💬 Ask me about **SQL, Python, Microsoft Power BI, AI**
+- 💬 Ask me about **Artificial Intelligence, SQL, Python, Microsoft Power BI, AI**
 
 - 📫 How to reach me **ddbasantray@gmail.com**
 
