@@ -8,7 +8,7 @@
   </picture>
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabasantray&label=Profile%20views&color=eb250f&style=flat-square" alt="divyabasantray" /> </p>
+
 
 - 🔭 I’m currently working on **Artificial Intelligence and Machine Learning Projects**
 
