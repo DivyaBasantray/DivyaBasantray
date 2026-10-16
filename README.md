@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivyaBasantray](https://github.com/DivyaBasantray)
 
-- 💬 Ask me about **Artificial Intelligence, SQL, Python, Microsoft Power BI, AI**
+- 💬 Ask me about **Artificial Intelligence, SQL, Python, Microsoft Power BI**
 
 - 📫 How to reach me **ddbasantray@gmail.com**
 
