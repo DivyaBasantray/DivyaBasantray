@@ -8,7 +8,7 @@
   </picture>
 </h3>
 
-- 🔭 I’m currently working on **AI and Machine Learning Projects**
+- 🔭 I’m currently working on **Data Analytics Projects, AI and Machine Learning Projects**
 
 - 🌱 I’m currently learning **Agentic AI, Machine Learning**
 
