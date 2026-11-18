@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Agentic AI, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DivyaBasantray](https://github.com/DivyaBasantray)
+- 👨‍💻 All of my projects are available at **[https://github.com/DivyaBasantray](https://github.com/DivyaBasantray)**
 
 - 💬 Ask me about **SQL, Python, Microsoft Power BI, AI**
 
