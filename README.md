@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Divya</h1>
 
 <h3 align="center">
-  A passionate Data Analyst from India&nbsp;
+  A Passionate Data Analyst from India&nbsp;
   <picture>
     <source srcset="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f3.svg" type="image/svg+xml">
     <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f3.svg" width="22" height="18" align="center">
